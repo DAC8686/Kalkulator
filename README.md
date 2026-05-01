@@ -1,17 +1,15 @@
-# kalku_uiux
+Kalkulator
 
-A new Flutter project.
+UI referensi : Kalkulator XOS infinix
 
-## Getting Started
+<img width="1080" height="2460" alt="Screenshot_20260502-031739" src="https://github.com/user-attachments/assets/618726f2-1f61-4a7f-bd1b-4dd287584129" />
+<img width="2460" height="1080" alt="Screenshot_20260502-031746" src="https://github.com/user-attachments/assets/5fe31338-f6a5-4299-a3e5-d9fb0d473fad" />
+<img width="2460" height="1080" alt="Screenshot_20260502-031746" src="https://github.com/user-attachments/assets/7bb50a3b-03d4-4aac-8d43-ee3c9a174c48" />
+<img width="1080" height="2460" alt="Screenshot_20260502-031739" src="https://github.com/user-attachments/assets/f6ddece3-0535-433c-9114-9a8dde9841cf" />
 
-This project is a starting point for a Flutter application.
+* [Flutter](https://flutter.dev/) - UI Toolkit
+* [math_expressions](https://pub.dev/packages/math_expressions) - Mesin Kalkulasi
+* [audioplayers](https://pub.dev/packages/audioplayers) - Efek Suara Haptic
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
