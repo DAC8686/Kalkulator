@@ -4,8 +4,6 @@ UI referensi : Kalkulator XOS infinix
 
 <img width="1080" height="2460" alt="Screenshot_20260502-031739" src="https://github.com/user-attachments/assets/618726f2-1f61-4a7f-bd1b-4dd287584129" />
 <img width="2460" height="1080" alt="Screenshot_20260502-031746" src="https://github.com/user-attachments/assets/5fe31338-f6a5-4299-a3e5-d9fb0d473fad" />
-<img width="2460" height="1080" alt="Screenshot_20260502-031746" src="https://github.com/user-attachments/assets/7bb50a3b-03d4-4aac-8d43-ee3c9a174c48" />
-<img width="1080" height="2460" alt="Screenshot_20260502-031739" src="https://github.com/user-attachments/assets/f6ddece3-0535-433c-9114-9a8dde9841cf" />
 
 * [Flutter](https://flutter.dev/) - UI Toolkit
 * [math_expressions](https://pub.dev/packages/math_expressions) - Mesin Kalkulasi
